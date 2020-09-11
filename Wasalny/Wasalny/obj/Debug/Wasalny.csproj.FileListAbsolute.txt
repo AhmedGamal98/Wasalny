@@ -1,0 +1,28 @@
+D:\Projects\Wasalny\Wasalny\Wasalny\bin\Debug\Wasalny.exe.config
+D:\Projects\Wasalny\Wasalny\Wasalny\bin\Debug\Wasalny.exe
+D:\Projects\Wasalny\Wasalny\Wasalny\bin\Debug\Wasalny.pdb
+D:\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.Form1.resources
+D:\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.Properties.Resources.resources
+D:\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.csproj.GenerateResource.Cache
+D:\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.exe
+D:\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.pdb
+D:\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.start_frm.resources
+D:\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.csprojResolveAssemblyReference.cache
+D:\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.sign_up_frm.resources
+D:\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.main_frm.resources
+D:\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.acc_frm.resources
+D:\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.edit_frm.resources
+D:\My Zone\Projects\Wasalny\Wasalny\Wasalny\bin\Debug\Wasalny.exe.config
+D:\My Zone\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.exe
+D:\My Zone\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.pdb
+D:\My Zone\Projects\Wasalny\Wasalny\Wasalny\bin\Debug\Wasalny.exe
+D:\My Zone\Projects\Wasalny\Wasalny\Wasalny\bin\Debug\Wasalny.pdb
+D:\My Zone\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.csprojResolveAssemblyReference.cache
+D:\My Zone\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.acc_frm.resources
+D:\My Zone\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.edit_frm.resources
+D:\My Zone\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.Form1.resources
+D:\My Zone\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.main_frm.resources
+D:\My Zone\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.Properties.Resources.resources
+D:\My Zone\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.sign_up_frm.resources
+D:\My Zone\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.start_frm.resources
+D:\My Zone\Projects\Wasalny\Wasalny\Wasalny\obj\Debug\Wasalny.csproj.GenerateResource.Cache
